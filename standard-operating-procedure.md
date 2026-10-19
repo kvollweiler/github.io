@@ -1,4 +1,4 @@
-# SOP: Investigating a failed toll tag read
+# SOP: Investigating a Failed Toll Tag Read
 
 - ***Scenario:*** Operations procedure for triaging a failed tag read on an all-electronic
 tolling gantry. Fictional company, Cascade Mobility.
@@ -95,7 +95,7 @@ Tier 1 target: triage within 30 minutes. Tier 2 target: resolution within 4 hour
 
 ## Exceptions and Troubleshooting
 
-| Condition | Likely cause | Action | Owner |
+| Condition | Likely Cause | Action | Owner |
 |---|---|---|---|
 | READ_NO_MATCH | Tag absent from the database | Attempt image billing, then route unreadable plates to manual review | Tier 2 |
 | LOW_CONFIDENCE | Reader misalignment or weather | Verify reader health, raise a field ticket if recurring | Tier 2 |
