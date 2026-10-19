@@ -9,4 +9,4 @@ Scenario-based samples demonstrating structured authoring, procedures, style gui
 - [Requirements and Acceptance Criteria](requirements-and-acceptance-criteria.md) — user stories, acceptance criteria, and traceability.
 - [FAT Verification Procedure](fat-verification-procedure.md) — factory acceptance test steps, results, deviations, and sign-off.
 
-For more about the portfolio, see the [Read the repository overview](https://github.com/kvollweiler/github.io/blob/main/README.md).
+For more about the portfolio, see the [README](README.md).
