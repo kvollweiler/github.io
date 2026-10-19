@@ -93,7 +93,7 @@ Tier 1 target: triage within 30 minutes. Tier 2 target: resolution within 4 hour
     **Expected result:** Open items appear in the handover log with current status and
     owner.
 
-## Exceptions and troubleshooting
+## Exceptions and Troubleshooting
 
 | Condition | Likely cause | Action | Owner |
 |---|---|---|---|
@@ -104,14 +104,14 @@ Tier 1 target: triage within 30 minutes. Tier 2 target: resolution within 4 hour
 | Site wide failure above 5 percent | Calibration drift or interference | Escalate to Supervisor, consider suspending billing | Supervisor |
 | Image unreadable | Camera fault or glare | Route to manual review, do not auto write off | Tier 2 |
 
-## Revision history
+## Revision History
 
 | Version | Date | Change | Author |
 |---|---|---|---|
 | 1.1 | October 19, 2026 | Added site wide threshold and escalation path | K. Vollweiler |
 | 1.0 | September 2026 | Initial release | K. Vollweiler |
 
-## Related documents
+## Related Documents
 
 - [Style guide excerpt](style-guide-excerpt.md)
 - [Requirements and acceptance criteria](requirements-and-acceptance-criteria.md)
