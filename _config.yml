@@ -1,0 +1,5 @@
+﻿title: kvollweiler
+description: "Samples in structured authoring, procedures, requirements and verification."
+theme: minima
+exclude:
+  - README.md
