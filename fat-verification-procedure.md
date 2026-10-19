@@ -39,7 +39,7 @@ revalidation logging, and duplicate billing prevention.
 
 ## Test Steps
 
-| Step ID | Requirement | Test step | Expected result | Actual result | Pass/Fail |
+| Step ID | Requirement | Test Step | Expected Result | Actual Result | Pass/Fail |
 |---|---|---|---|---|---|
 | T-01 | REQ-004 | Submit a failed read with a matched tag. | Status becomes MATCHED within 60 seconds of failure. | Matched in 22 seconds. | Pass |
 | T-02 | REQ-004 | Submit a failed read with an unmatched tag. | Status remains FAILED_VALIDATION and routes to image billing. | Status unchanged, routed to image billing. | Pass |
