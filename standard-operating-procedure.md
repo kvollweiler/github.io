@@ -115,3 +115,4 @@ Tier 1 target: triage within 30 minutes. Tier 2 target: resolution within 4 hour
 
 - [Style guide excerpt](style-guide-excerpt.md)
 - [Requirements and acceptance criteria](requirements-and-acceptance-criteria.md)
+- [FAT Verification Procedure](fat-verification-procedure.md)
