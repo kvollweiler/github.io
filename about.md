@@ -1,16 +1,39 @@
-﻿---
-layout: default
-title: About me
----
+﻿# Technical writing portfolio
 
-# About me
+I am a senior technical writer with 6+ years producing standard operating procedures,
+user guides, process maps and system documentation for transportation and regulated
+industries. This set is deliberately cross referenced: the requirements define the
+behaviour, the verification procedure proves it, and the SOP tells operators how to run
+it. The samples share one fictional product so they trace to each other.
+## Samples
 
-I'm Kimberly Vollweiler, a senior technical writer with more than six years of experience creating standard operating procedures, user guides, process maps, and system documentation for transportation and regulated industries.
+- **[Style Guide Excerpt](style-guide-excerpt.md)**
+  House style rules covering voice, capitalization, terminology, numbers and
+  accessibility. *Demonstrates standards ownership, editorial judgment and
+  accessibility.*
 
-This portfolio demonstrates my work in structured authoring, operational procedures, style guidance, requirements analysis, and verification. The samples use one fictional tolling scenario to show how requirements, tests, and procedures can connect through traceable IDs.
+- **[SOP: Investigating a Failed Toll Tag Read](standard-operating-procedure.md)**
+  An operations procedure with a process diagram, numbered steps with expected results,
+  exception handling and a revision history. *Demonstrates procedure writing, process
+  mapping and structured authoring.*
 
-All examples are scenario-based and contain no client or employer content.
+- **[Requirements and Acceptance Criteria](requirements-and-acceptance-criteria.md)**
+  User stories, Given/When/Then acceptance criteria, a traceability matrix, out of scope
+  and open questions. *Demonstrates requirements analysis, traceability and scope
+  control.*
 
-## Contact
+- **[FAT Verification Procedure](fat-verification-procedure.md)**
+  A factory acceptance test procedure with step IDs, expected versus actual results,
+  pass/fail recording, a deviation log and formal sign off. *Demonstrates test procedure
+  design, boundary testing and deviation handling.*
+  
+## About this set
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/kimberlyvollweiler/) or email [kvollweiler@outlook.com](mailto:kvollweiler@outlook.com).
+These are scenario based samples written to stand on their own. No client or employer
+content is included, so nothing here depends on a confidentiality agreement. Each sample
+opens with a short context block describing the scenario and what it demonstrates.
+
+The requirements and verification samples share requirement IDs and test case IDs, so
+the traceability runs unbroken from requirement through test to result.
+
+Written in Markdown and version controlled with Git.
