@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAT verification procedure
+title: FAT Verification Procedure
 ---
 
 - ***Scenario:*** Factory acceptance test procedure verifying the automated revalidation
