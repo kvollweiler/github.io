@@ -1,3 +1,8 @@
+---
+layout: page
+title: About me
+---
+
 I am a senior technical writer with 6+ years producing standard operating procedures,
 user guides, process maps and system documentation for transportation and regulated
 industries. This set is deliberately cross referenced: the requirements define the

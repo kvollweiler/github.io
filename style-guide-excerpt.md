@@ -1,3 +1,8 @@
+---
+layout: page
+title: Style guide excerpt
+---
+
 - ***Scenario:*** A working excerpt from the style guide developed for Cascade Mobility 
 documentation, a fictional transportation technology company. Covers the rules writers
 and engineers ask about most often.

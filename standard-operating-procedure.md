@@ -1,3 +1,8 @@
+---
+layout: page
+title: "SOP: Investigating a Failed Toll Tag Read"
+---
+
 - ***Scenario:*** Operations procedure for triaging a failed tag read on an all-electronic
 tolling gantry. Fictional company, Cascade Mobility.
 - ***Audience:*** Traffic management center operators and revenue assurance analysts.

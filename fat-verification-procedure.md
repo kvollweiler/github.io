@@ -1,3 +1,8 @@
+---
+layout: page
+title: FAT verification procedure
+---
+
 - ***Scenario:*** Factory acceptance test procedure verifying the automated revalidation
 service before release. Fictional company, Cascade Mobility.
 - ***Audience:*** QA engineer, test witness, and product owner.

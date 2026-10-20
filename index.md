@@ -1,4 +1,8 @@
-﻿
+---
+layout: page
+title: Technical writing portfolio
+---
+
 Scenario-based samples demonstrating structured authoring, procedures, style guidance, requirements analysis, and verification for the tolling industry. These samples are fictional and contain no client-specific content.
 
 ## Samples
@@ -9,4 +13,3 @@ Scenario-based samples demonstrating structured authoring, procedures, style gui
 - [FAT Verification Procedure](fat-verification-procedure.md) — factory acceptance test steps, results, deviations, and sign-off.
 
 For more about me and this portfolio, see [About me](about.html).
-
