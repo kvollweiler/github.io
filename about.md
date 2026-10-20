@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 ---
 
 I am a senior technical writer with 6+ years producing standard operating procedures,
