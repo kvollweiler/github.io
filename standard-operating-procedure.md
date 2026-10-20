@@ -57,7 +57,9 @@ flowchart TD
     M --> E
     H --> N[Post resolution note and close ticket]
     K --> N
-```<script type="module" src="{{ '/assets/js/mermaid.js' | relative_url }}"></script>
+```
+
+<script type="module" src="{{ '/assets/js/mermaid.js' | relative_url }}"></script>
 
 **Text equivalent:** A failed read triggers failure code capture and a reader health
 check. The path then branches on whether the fault is isolated or site wide. Isolated
