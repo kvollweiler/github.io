@@ -1,4 +1,4 @@
-# Technical writing portfolio
+# Technical Writing Portfolio
 
 I am a senior technical writer with 6+ years producing standard operating procedures,
 user guides, process maps and system documentation for transportation and regulated
