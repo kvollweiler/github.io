@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style guide excerpt
+title: Style Guide Excerpt
 ---
 
 - ***Scenario:*** A working excerpt from the style guide developed for Cascade Mobility 
