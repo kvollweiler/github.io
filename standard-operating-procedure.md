@@ -69,27 +69,27 @@ the gantry is back in service. Both paths close with a resolution note.
 
 Tier 1 target: triage within 30 minutes. Tier 2 target: resolution within 4 hours.
 
-1. Open the Failed Read queue and filter to the last 24 hours.
+1. Open the Failed Read queue and filter to the last 24 hours.<br>
    **Expected result:** The queue lists transactions with status FAILED_VALIDATION.
-2. Record the failure code and the gantry ID on the ticket.
+2. Record the failure code and the gantry ID on the ticket.<br>
    **Expected result:** Both values are captured and the ticket is time stamped.
-3. Check the Reader Health dashboard for that gantry.
+3. Check the Reader Health dashboard for that gantry.<br>
    **Expected result:** Reader status and last successful read time are displayed.
-4. Determine whether the failure is isolated or site wide.
+4. Determine whether the failure is isolated or site wide.<br>
    **Expected result:** The ticket is classified as ISOLATED or SITE_WIDE.
-5. For an isolated failure, run automated revalidation.
+5. For an isolated failure, run automated revalidation.<br>
    **Expected result:** Validation re runs and the status becomes MATCHED or remains
    FAILED_VALIDATION.
-6. For a site wide failure, raise a field ticket with the gantry ID and time window.
+6. For a site wide failure, raise a field ticket with the gantry ID and time window.<br>
    **Expected result:** The ticket is assigned to a Field Technician and the gantry is
    flagged as degraded.
-7. If revalidation fails, open the image only record.
+7. If revalidation fails, open the image only record.<br>
    **Expected result:** The plate image, confidence score, and lane are displayed.
-8. Confirm or correct the plate read against the image.
+8. Confirm or correct the plate read against the image.<br>
    **Expected result:** The transaction is reclassified as IMAGE_ONLY_BILLABLE.
-9. Post a resolution note using the standard resolution code.
+9. Post a resolution note using the standard resolution code.<br>
    **Expected result:** The ticket status is CLOSED with a resolution code attached.
-10. Carry any unresolved items into the shift handover log.
+10. Carry any unresolved items into the shift handover log.<br>
     **Expected result:** Open items appear in the handover log with current status and
     owner.
 
