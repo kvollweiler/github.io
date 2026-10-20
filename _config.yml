@@ -1,3 +1,5 @@
 ﻿title: Kimberly Vollweiler
 description: "Samples in structured authoring, procedures, requirements and verification."
 theme: minima
+header_pages:
+  - about.md
