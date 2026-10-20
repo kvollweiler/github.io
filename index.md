@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical writing portfolio
+title: Technical Writing Portfolio
 ---
 
 Scenario-based samples demonstrating structured authoring, procedures, style guidance, requirements analysis, and verification for the tolling industry. These samples are fictional and contain no client-specific content.
