@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Requirements and acceptance criteria
+title: Requirements and Acceptance Criteria
 ---
 
 - ***Scenario:*** Requirements specification for the automated revalidation service in a
