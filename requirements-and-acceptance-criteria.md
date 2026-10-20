@@ -1,5 +1,3 @@
-# Requirements and Acceptance Criteria
-
 - ***Scenario:*** Requirements specification for the automated revalidation service in a
 tolling back office system. Fictional company, Cascade Mobility.
 - ***Audience:*** Product owner, engineering, QA, and the technical writer maintaining the
