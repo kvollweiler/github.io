@@ -1,5 +1,3 @@
-# FAT Procedure: Automated Revalidation Service
-
 - ***Scenario:*** Factory acceptance test procedure verifying the automated revalidation
 service before release. Fictional company, Cascade Mobility.
 - ***Audience:*** QA engineer, test witness, and product owner.
