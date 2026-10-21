@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Technical Writing Portfolio
+description: Scenario-based documentation samples in structured authoring, process mapping, procedures, requirements, and verification.
 ---
 
 Scenario-based samples demonstrating structured authoring, procedures, process mapping, style guidance, requirements analysis, and verification. These samples are fictional and contain no client-specific content.
@@ -16,4 +17,4 @@ Provides user stories, acceptance criteria, and traceability.
 - [FAT Verification Procedure](fat-verification-procedure.md)<br>
 Provides factory acceptance test steps, results, deviations, and sign-off.
 
-For more about me and this portfolio, see [About me](about.html).
+[About me](about.html) | kvollweiler@outlook.com | [LinkedIn](https://www.linkedin.com/in/kimberlyvollweiler).
