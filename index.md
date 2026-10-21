@@ -17,4 +17,4 @@ Provides user stories, acceptance criteria, and traceability.
 - [FAT Verification Procedure](fat-verification-procedure.md)<br>
 Provides factory acceptance test steps, results, deviations, and sign-off.
 
-[About me](about.html) | kvollweiler@outlook.com | [LinkedIn](https://www.linkedin.com/in/kimberlyvollweiler).
+For additional information, see [About me](about.html).
