@@ -3,11 +3,18 @@ layout: page
 title: About Me
 ---
 
-I am a senior technical writer with 6+ years producing standard operating procedures,
-user guides, process maps and system documentation for transportation and regulated
-industries. This set is deliberately cross referenced: the requirements define the
-behaviour, the verification procedure proves it, and the SOP tells operators how to run
-it. The samples share one fictional product so they trace to each other.
+I am a senior technical writer and documentation lead with 15+ years producing standard
+operating procedures, user guides, process maps, system documentation, UX/UI documentation,
+and training materials for regulated industries, including transportation technology,
+healthcare, financial services, and aerospace and defense.
+
+What I am best at is walking into something disorganized and building the structure around it:
+standards, templates, and a repository that keeps documentation accurate and findable. I own
+the full lifecycle, from intake and scoping through drafting, subject-matter review, approval,
+publishing, and maintenance, and I document processes and screen flows at a granular level.
+
+I also write for the way documentation is used today: structured, search-friendly content that
+an internal AI can index and serve, and accessible by default.
 ## Samples
 
 - **[Style Guide Excerpt](style-guide-excerpt.md)**
@@ -32,11 +39,12 @@ it. The samples share one fictional product so they trace to each other.
   
 ## About this set
 
-These are scenario based samples written to stand on their own. No client or employer
-content is included, so nothing here depends on a confidentiality agreement. Each sample
-opens with a short context block describing the scenario and what it demonstrates.
+These are scenario-based samples written to stand on their own. No client or employer content
+is included, so nothing here depends on a confidentiality agreement. Each sample opens with a
+short context block describing the scenario and what it demonstrates.
 
-The requirements and verification samples share requirement IDs and test case IDs, so
-the traceability runs unbroken from requirement through test to result.
+The set is deliberately cross-referenced: the requirements define the behaviour, the
+verification procedure proves it, and the SOP tells operators how to run it. The samples share
+one fictional product so they trace to each other.
 
 Written in Markdown and version controlled with Git.
