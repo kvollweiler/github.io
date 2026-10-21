@@ -15,6 +15,19 @@ publishing, and maintenance, and I document processes and screen flows at a gran
 
 I also write for the way documentation is used today: structured, search-friendly content that
 an internal AI can index and serve, and accessible by default.
+
+## About this set
+
+These are scenario-based samples written to stand on their own. No client or employer content
+is included, so nothing here depends on a confidentiality agreement. Each sample opens with a
+short context block describing the scenario and what it demonstrates.
+
+The set is deliberately cross-referenced: the requirements define the behaviour, the
+verification procedure proves it, and the SOP tells operators how to run it. The samples share
+one fictional product so they trace to each other.
+
+Written in Markdown and version controlled with Git.
+
 ## Samples
 
 - **[Style Guide Excerpt](style-guide-excerpt.md)**
@@ -37,14 +50,3 @@ an internal AI can index and serve, and accessible by default.
   pass/fail recording, a deviation log and formal sign off. *Demonstrates test procedure
   design, boundary testing and deviation handling.*
   
-## About this set
-
-These are scenario-based samples written to stand on their own. No client or employer content
-is included, so nothing here depends on a confidentiality agreement. Each sample opens with a
-short context block describing the scenario and what it demonstrates.
-
-The set is deliberately cross-referenced: the requirements define the behaviour, the
-verification procedure proves it, and the SOP tells operators how to run it. The samples share
-one fictional product so they trace to each other.
-
-Written in Markdown and version controlled with Git.
