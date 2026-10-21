@@ -16,5 +16,7 @@ Provides a tolling operations procedure with a process diagram and troubleshooti
 Provides user stories, acceptance criteria, and traceability.
 - [FAT Verification Procedure](fat-verification-procedure.md)<br>
 Provides factory acceptance test steps, results, deviations, and sign-off.
+- [New Hire Onboarding: As-Is and To-Be](new-hire-onboarding.html)<br>
+Provides an as-is and to-be process review of new hire onboarding, with a swimlane diagram, exception handling, and a responsibility map.
 
 For additional information, see [About me](about.html).
