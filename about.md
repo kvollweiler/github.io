@@ -49,6 +49,10 @@ Written in Markdown and version controlled with Git.
   Provides a factory acceptance test procedure with step IDs, expected versus actual results,
   pass/fail recording, a deviation log and formal sign off. *Demonstrates test procedure
   design, boundary testing and deviation handling.*
+
+- **[New Hire Onboarding: As-Is and To-Be](new-hire-onboarding.html)**<br>
+  Provides an as-is and to-be process review with a swimlane diagram, exception handling and a responsibility map. *Demonstrates process mapping, swimlane modeling, exception handling and responsibility mapping.*
+
   
 ## Contact
 - kvollweiler@outlook.com
