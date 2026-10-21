@@ -30,23 +30,23 @@ Written in Markdown and version controlled with Git.
 
 ## Samples
 
-- **[Style Guide Excerpt](style-guide-excerpt.md)**
-  House style rules covering voice, capitalization, terminology, numbers and
+- **[Style Guide Excerpt](style-guide-excerpt.md)**<br>
+  Provides style rules covering voice, capitalization, terminology, numbers and
   accessibility. *Demonstrates standards ownership, editorial judgment and
   accessibility.*
 
-- **[SOP: Investigating a Failed Toll Tag Read](standard-operating-procedure.md)**
-  An operations procedure with a process diagram, numbered steps with expected results,
+- **[SOP: Investigating a Failed Toll Tag Read](standard-operating-procedure.md)**<br>
+  Provides an operations procedure with a process diagram, numbered steps with expected results,
   exception handling and a revision history. *Demonstrates procedure writing, process
   mapping and structured authoring.*
 
-- **[Requirements and Acceptance Criteria](requirements-and-acceptance-criteria.md)**
-  User stories, Given/When/Then acceptance criteria, a traceability matrix, out of scope
+- **[Requirements and Acceptance Criteria](requirements-and-acceptance-criteria.md)**<br>
+  Provides user stories, Given/When/Then acceptance criteria, a traceability matrix, out of scope
   and open questions. *Demonstrates requirements analysis, traceability and scope
   control.*
 
-- **[FAT Verification Procedure](fat-verification-procedure.md)**
-  A factory acceptance test procedure with step IDs, expected versus actual results,
+- **[FAT Verification Procedure](fat-verification-procedure.md)**<br>
+  Provides a factory acceptance test procedure with step IDs, expected versus actual results,
   pass/fail recording, a deviation log and formal sign off. *Demonstrates test procedure
   design, boundary testing and deviation handling.*
   
