@@ -50,3 +50,6 @@ Written in Markdown and version controlled with Git.
   pass/fail recording, a deviation log and formal sign off. *Demonstrates test procedure
   design, boundary testing and deviation handling.*
   
+## Contact
+- kvollweiler@outlook.com
+- [linkedin.com/in/kimberlyvollweiler](https://www.linkedin.com/in/kimberlyvollweiler)
